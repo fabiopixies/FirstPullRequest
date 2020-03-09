@@ -74,7 +74,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Overcash, Ryan
 
-- [ ] Price, Andrew
+- [x] Price, Andrew "The Greatest"
 
 - [ ] Purak, Amina
 
